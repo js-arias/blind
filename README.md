@@ -5,6 +5,8 @@ that are friendly for color blind people.
 
 The color schemes are taken from [Paul Tol](https://personal.sron.nl/~pault/) page.
 
+![Here is a color gradient build by the [gradient example](blind_gradient_test.go)](gradient.png)
+
 ## Authorship and license
 
 The color schemes are taken from [Paul Tol](https://personal.sron.nl/~pault/) page.
