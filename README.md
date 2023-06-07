@@ -12,9 +12,7 @@ based on [iridescent color scheme](https://personal.sron.nl/~pault/#fig:scheme_i
 
 ## Authorship and license
 
-The color schemes are taken from [Paul Tol](https://personal.sron.nl/~pault/) page.
-Code is written by J. Salvador Arias.
-
-Copyright © 2023 J. Salvador Arias <jsalarias@gmail.com>.
+Color schemes copyright © 2022 Paul Tol <https://personal.sron.nl/~pault/>
+Code copyright © 2023 J. Salvador Arias <jsalarias@gmail.com>.
 All rights reserved.
-Distributed under BSD2 licenses that can be found in the LICENSE file.
+Distributed under BSD3 licenses that can be found in the LICENSE file.

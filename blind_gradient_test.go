@@ -1,6 +1,7 @@
-// Copyright © 2023 J. Salvador Arias <jsalarias@gmail.com>.
+// Color schemes copyright © 2022 Paul Tol <https://personal.sron.nl/~pault/>
+// Code copyright © 2023 J. Salvador Arias <jsalarias@gmail.com>.
 // All rights reserved.
-// Distributed under BSD2 licenses that can be found in the LICENSE file.
+// Distributed under BSD3 licenses that can be found in the LICENSE file.
 
 package blind_test
 
