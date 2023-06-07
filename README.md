@@ -6,9 +6,17 @@ that are friendly for color blind people.
 The color schemes are taken from [Paul Tol](https://personal.sron.nl/~pault/) page.
 
 Here is a color gradient build by the [gradient example](blind_gradient_test.go)
-based on [iridescent color scheme](https://personal.sron.nl/~pault/#fig:scheme_iridescent).
+based on [rainbow color scheme (purple to red)](https://personal.sron.nl/~pault/#fig:scheme_rainbow_smooth).
 
 ![Gradient example](gradient.png)
+
+## Implemented color schemes
+
+Here are another gradients:
+
+[Iridescent color scheme](https://personal.sron.nl/~pault/#fig:scheme_iridescent)
+
+![Iridescent](iridescent.png)
 
 ## Authorship and license
 
