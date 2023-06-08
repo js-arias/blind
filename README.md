@@ -18,6 +18,13 @@ Here are another gradients:
 
 ![Iridescent](iridescent.png)
 
+Full [rainbow color scheme](https://personal.sron.nl/~pault/#fig:scheme_rainbow_smooth).
+This scheme is not intended to be used in full,
+rather use an slice frame
+(such as the purple to red used by default in `Gradient` function).
+
+![Full rainbow](full-rainbow.png)
+
 ## Authorship and license
 
 Color schemes copyright © 2022 Paul Tol <https://personal.sron.nl/~pault/>
