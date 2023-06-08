@@ -25,6 +25,11 @@ rather use an slice frame
 
 ![Full rainbow](full-rainbow.png)
 
+[Incandescent color scheme](https://personal.sron.nl/~pault/#fig:scheme_incandescent).
+This scheme is not printer friendly.
+
+![Incandescent](incandescent.png)
+
 ## Authorship and license
 
 Color schemes copyright © 2022 Paul Tol <https://personal.sron.nl/~pault/>

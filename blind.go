@@ -21,6 +21,24 @@ type ColSeq []color.RGBA
 
 // Sequential color schemes
 var (
+	// Incandescent color scheme:
+	// https://personal.sron.nl/~pault/#fig:scheme_incandescent.
+	//
+	// This scheme is not print friendly.
+	Incandescent = ColSeq{
+		{R: 206, G: 255, B: 255, A: 255},
+		{R: 198, G: 247, B: 214, A: 255},
+		{R: 162, G: 244, B: 155, A: 255},
+		{R: 187, G: 228, B: 83, A: 255},
+		{R: 213, G: 206, B: 4, A: 255},
+		{R: 231, G: 181, B: 3, A: 255},
+		{R: 241, G: 153, B: 3, A: 255},
+		{R: 246, G: 121, B: 11, A: 255},
+		{R: 249, G: 73, B: 2, A: 255},
+		{R: 228, G: 5, B: 21, A: 255},
+		{R: 168, G: 0, B: 3, A: 255},
+	}
+
 	// Iridescent color scheme:
 	// https://personal.sron.nl/~pault/#fig:scheme_iridescent.
 	Iridescent = ColSeq{
